@@ -1,1 +1,2 @@
-print("2(TWO)")
+print('TWO(2)')
+
